@@ -1,4 +1,4 @@
-import redirections from "../redirections.json"
+import redirections from "../redirects.json"
 
 export const config = {
   runtime: 'edge',
